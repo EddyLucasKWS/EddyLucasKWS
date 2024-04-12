@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eddy Lucas, friends call me Ed
-- 👀 I’m interested in AutoCAD / Cicil 3d
+- 👀 I’m interested in AutoCAD / Civil 3d
 - 🌱 I’m currently learning C#, Visual-Lisp, Python, HTML, CSS, PHP
 - 💞️ I’m looking to collaborate on a plugin for AutoCAD to get an Openstreetmap image as image-attach
 - 📫 How to reach me: elucas@kws.nl
